@@ -1,1 +1,3 @@
-# Welcome to windows-itpro-criteria-certification-migration!
+﻿---
+redirect_url: 'microsoft-technet-windows-platform-common-criteria-certification'
+---
